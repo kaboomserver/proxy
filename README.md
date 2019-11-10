@@ -1,2 +1,2 @@
-# proxy-setup
-Commands for setting up the public proxy
+# proxy
+Resources for setting up the reverse proxy server
