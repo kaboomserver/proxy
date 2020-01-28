@@ -1,5 +1,0 @@
-GatewayPorts yes
-ClientAliveInterval 15
-
-Match User remote
-    PasswordAuthentication no
