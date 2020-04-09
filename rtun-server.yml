@@ -1,7 +1,0 @@
-# Gateway server binds to this address to communicate with agents.
-control_address: 0.0.0.0:25564
-
-# List of authorized agents follows.
-agents:
-  - auth_key: <redacted>
-    ports: [25565/tcp, 25565/udp, 19132/udp]
